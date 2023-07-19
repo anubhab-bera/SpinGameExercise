@@ -1,0 +1,8 @@
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\obj\Debug\conAppSpinGame.csproj.AssemblyReference.cache
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\obj\Debug\conAppSpinGame.csproj.SuggestedBindingRedirects.cache
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\obj\Debug\conAppSpinGame.csproj.CoreCompileInputs.cache
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\bin\Debug\conAppSpinGame.exe.config
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\bin\Debug\conAppSpinGame.exe
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\bin\Debug\conAppSpinGame.pdb
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\obj\Debug\conAppSpinGame.exe
+C:\.NET Training\Day 8\conAppSpinGame\conAppSpinGame\obj\Debug\conAppSpinGame.pdb
